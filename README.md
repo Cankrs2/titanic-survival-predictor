@@ -48,3 +48,9 @@ The project uses the Titanic dataset from Kaggle. The dataset includes the follo
 - Parch (Number of Parents/Children Aboard)
 - Fare
 - Embarked (Port of Embarkation) 
+
+![image](https://github.com/user-attachments/assets/63772185-f1a5-4df5-8425-735f39a3283b)  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/2fa9694d-e7fd-44e7-bb98-5c2c92f59158)
